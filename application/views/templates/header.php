@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>ciBlog</title>
+    <title>Blog</title>
     <link rel="stylesheet" href="https://bootswatch.com/4/flatly/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/style.css">
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -10,7 +10,7 @@
   <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container">
-      <a class="navbar-brand" href="<?php echo base_url(); ?>">ciBlog</a>
+      <a class="navbar-brand" href="<?php echo base_url(); ?>">Blog</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
