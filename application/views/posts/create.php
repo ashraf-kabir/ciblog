@@ -11,7 +11,7 @@
     <label>Body</label>
     <textarea id="editor1" class="form-control" name="body" placeholder="Add Body"></textarea>
   </div>
-  <!-- <div class="form-group">
+  <div class="form-group">
 	  <label>Category</label>
 	  <select name="category_id" class="form-control">
 		  <?php foreach($categories as $category): ?>
@@ -22,6 +22,6 @@
   <div class="form-group">
 	  <label>Upload Image</label>
 	  <input type="file" name="userfile" size="20">
-  </div> -->
+  </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>

@@ -1,9 +1,15 @@
 .post-header {
   padding-top: 25px;
 }
+
 .post-date {
   background: #f4f4f4;
   padding: 4px;
   margin: 10px 0;
   display: block;
+}
+
+.post-thumb {
+  width: 150px;
+  height: 150px;
 }
