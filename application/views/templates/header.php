@@ -3,6 +3,7 @@
     <title>ciBlog</title>
     <link rel="stylesheet" href="https://bootswatch.com/4/flatly/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/style.css">
+    <script src="http://cdn.ckeditor.com/4.15.0/standard/ckeditor.js"></script>
   </head>
   <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
@@ -35,6 +36,9 @@
               <a class="dropdown-item" href="#">Separated link</a>
             </div>
           </li> -->
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <a class="nav-link" href="<?php echo base_url(); ?>posts/create">Create Post</a>
         </ul>
         <!-- <form class="form-inline my-2 my-lg-0">
           <input class="form-control mr-sm-2" type="text" placeholder="Search">
